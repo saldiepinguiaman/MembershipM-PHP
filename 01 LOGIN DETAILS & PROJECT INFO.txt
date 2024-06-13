@@ -1,0 +1,9 @@
+http://localhost/MembershipM-PHP
+
+**Database Name: membershiphp**
+
+
+**Login Details**
+
+Email   : admin@mail.com
+Password: admin123
